@@ -16,7 +16,7 @@ iteration2/
 │   ├── message_length_by_class.png
 │   └── class_similarity_accuracy.png
 └── docs/
-    ├── iteration2_report.pdf      Overleaf report
+    ├── iteration2_report_updated_.pdf      Overleaf report
     └── DS5020_Project_Plan.xlsx   task table, timeline and contributions
 ```
 
